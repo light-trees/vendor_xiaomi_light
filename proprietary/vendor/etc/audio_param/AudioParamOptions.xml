@@ -2,7 +2,7 @@
 <AudioParamOptions>
  <Param name="MTK_WB_SPEECH_SUPPORT" value="" />
  <Param name="MTK_AUDIO_HD_REC_SUPPORT" value="yes" />
- <Param name="MTK_DUAL_MIC_SUPPORT" value="no" />
+ <Param name="MTK_DUAL_MIC_SUPPORT" value="yes" />
  <Param name="MTK_AUDIO_MIC_INVERSE" value="no" />
  <Param name="MTK_HANDSFREE_DMNR_SUPPORT" value="yes" />
  <Param name="DMNR_TUNNING_AT_MODEMSIDE" value="" />
